@@ -1,0 +1,23 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Tile Sets","order":1,"path":"folders/Tile Sets.yy",},
+    {"name":"Sounds","order":2,"path":"folders/Sounds.yy",},
+    {"name":"Paths","order":3,"path":"folders/Paths.yy",},
+    {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Shaders","order":5,"path":"folders/Shaders.yy",},
+    {"name":"EasyMenuFonts","order":6,"path":"folders/EasyMenuFonts.yy",},
+    {"name":"Timelines","order":7,"path":"folders/Timelines.yy",},
+    {"name":"EasyMenu","order":8,"path":"folders/EasyMenu.yy",},
+    {"name":"Rooms","order":9,"path":"folders/Rooms.yy",},
+    {"name":"Sequences","order":10,"path":"folders/Sequences.yy",},
+    {"name":"Animation Curves","order":11,"path":"folders/Animation Curves.yy",},
+    {"name":"Notes","order":12,"path":"folders/Notes.yy",},
+    {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
+    {"name":"Particle Systems","order":14,"path":"folders/Particle Systems.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"EasyMenuRoom","order":16,"path":"rooms/EasyMenuRoom/EasyMenuRoom.yy",},
+    {"name":"oEasyMenu","order":15,"path":"objects/oEasyMenu/oEasyMenu.yy",},
+    {"name":"EasyMenuAgency32","order":1,"path":"fonts/EasyMenuAgency32/EasyMenuAgency32.yy",},
+  ],
+}
